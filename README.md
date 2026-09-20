@@ -1,3 +1,3 @@
 <p align="center">
-  <img align="center" src="https://github.com/hqd404/hqd404/raw/master/developer.gif" style="height: 300px"/>
+  <img align="center" src="https://github.com/hqd404/hqd404/raw/master/developer.gif" style="height: 200px"/>
 </p>
